@@ -2,7 +2,7 @@
 
 ![Development Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/Python-3.6%2B-purple)
+![Python](https://img.shields.io/badge/Python-3.9%2B-purple)
 ![YOLO](https://img.shields.io/badge/YOLOv3--v8-compatible-green)
 ![Open Source](https://img.shields.io/badge/Contributions-Welcome-orange)
 
