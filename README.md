@@ -16,8 +16,6 @@ A lightweight Python tool to convert the [BDD100K dataset](http://bdd-data.berke
 **Read the walkthrough on Medium**:  
 [How to Convert BDD100K to YOLOv3–v11 Format](https://medium.com/@your-medium-username/bdd100k-to-yolo-conversion-guide-abc123)  
 
----
-
 ## Project Structure
 
 ```text
@@ -31,8 +29,6 @@ bdd100k-to-yolo/
 ├── README.md              # You're reading it!
 └── .gitignore
 ````
-
----
 
 ## Getting Started
 
@@ -66,8 +62,6 @@ USE_ULTRALYTICS_FORMAT = True  # or False for legacy format
 python3 converter.py
 ```
 
----
-
 ## Folder Structures
 
 ### Ultralytics Format (USE_ULTRALYTICS_FORMAT = True)
@@ -91,8 +85,6 @@ dataset_yolo_converted/
     └── bdd100k.data
 ```
 
----
-
 ### Legacy Format (USE_ULTRALYTICS_FORMAT = False)
 
 ```text
@@ -114,8 +106,6 @@ dataset_yolo_converted/
     └── bdd100k.data
 ```
 
----
-
 ## Verify Dataset Consistency
 
 Ensure all image-label pairs are present using:
@@ -132,8 +122,6 @@ python verify_dataset.py --dataset ./dataset_yolo_converted
 python verify_dataset.py --dataset ./dataset_yolo_converted --legacy
 ```
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -145,8 +133,6 @@ If you find any bugs or have ideas to improve this tool, feel free to:
 
 Let’s make this tool better, together!
 
----
-
 ## Tested With
 
 * Python 3.9–3.12
@@ -154,13 +140,9 @@ Let’s make this tool better, together!
 * Ultralytics YOLOv7/v11
 * YOLO Darknet format
 
----
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## ⭐️ If you find this useful...
 
