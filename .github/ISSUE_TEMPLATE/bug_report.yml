@@ -1,0 +1,46 @@
+name: Bug Report
+description: Report a bug or unexpected behavior
+title: "[BUG] <brief description>"
+labels: [bug]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the details below to help us resolve your issue faster.
+
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Python version, YOLO version
+      placeholder: e.g. macOS 13.2, Python 3.10, YOLOv8
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: What steps did you take that led to the issue?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Screenshots
+      description: Attach logs or images if helpful

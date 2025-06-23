@@ -1,11 +1,9 @@
-<!--
 Thank you for contributing to the BDD100K to YOLO Converter project!
 Please complete the checklist below before we review your PR.
--->
 
 ### What does this PR do?
 
-<!-- Briefly describe what your changes fix or introduce -->
+Briefly describe what your changes fix or introduce
 
 ### Changes Overview
 
@@ -24,14 +22,14 @@ Please complete the checklist below before we review your PR.
 
 ### Related Issues (if any)
 
-<!-- e.g. Closes #12 or Fixes #33 -->
+e.g. Closes #12 or Fixes #33
 
 ### How to Test
 
-<!-- Steps to verify the change works as expected -->
+Steps to verify the change works as expected
 
 ### Screenshots (if applicable)
 
-<!-- Include before/after screenshots if the UI or output changes -->
+Include before/after screenshots if the UI or output changes
 
 Thanks for contributing!
