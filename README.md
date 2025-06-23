@@ -13,8 +13,7 @@ A lightweight Python tool to convert the [BDD100K dataset](http://bdd-data.berke
 - `.yaml`, `.names`, and `.data` config file generation
 - Dataset verification utility for both formats
 
-**Read the walkthrough on Medium**:  
-[From BDD100K to YOLO](https://medium.com/@kavin.aravindhan/bdd100k-to-yolo-conversion-9c331a7dc9f3)  
+**Read the walkthrough on Medium**: [From BDD100K to YOLO](https://medium.com/@kavin.aravindhan/bdd100k-to-yolo-conversion-9c331a7dc9f3)  
 
 ## Project Structure
 
