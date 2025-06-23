@@ -3,7 +3,7 @@
 ![Development Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-purple)
-![YOLO](https://img.shields.io/badge/YOLOv3--v8-compatible-green)
+![YOLO](https://img.shields.io/badge/YOLOv3--v11-compatible-green)
 ![Open Source](https://img.shields.io/badge/Contributions-Welcome-orange)
 
 A lightweight Python tool to convert the [BDD100K dataset](http://bdd-data.berkeley.edu/) into **YOLO format**, supporting:
